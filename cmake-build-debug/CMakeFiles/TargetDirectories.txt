@@ -1,0 +1,4 @@
+/Users/aeong/Desktop/c프로그래밍/code/cmake-build-debug/CMakeFiles/hw1.dir
+/Users/aeong/Desktop/c프로그래밍/code/cmake-build-debug/CMakeFiles/hw2.dir
+/Users/aeong/Desktop/c프로그래밍/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aeong/Desktop/c프로그래밍/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
